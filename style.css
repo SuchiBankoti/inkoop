@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+.input {
+  width: 300px;
+  margin: auto;
+  background-color: palevioletred;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  padding: 20px;
+}
+#bar {
+  font-weight: 600;
+  margin: 10px;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+input {
+  border: 0;
+  width: 250px;
+  height: 50px;
+  border-radius: 5px;
+}
